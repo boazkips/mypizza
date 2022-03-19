@@ -6,7 +6,7 @@
  * https://sizzlejs.com/
  *
  * Copyright JS Foundation and other contributors
- * Released under the MIT license
+ * Released under boazkips foundation
  * https://jquery.org/license
  *
  * Date: 2019-05-01T21:04Z
